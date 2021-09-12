@@ -2,24 +2,7 @@
  *  UCF COP3330 Fall 2021 Assignment 1 Solution
  *  Copyright 2021 alden bagarra
  */
-/*
-Enter a 1 is you are male or a 2 if you are female: 1
-How many ounces of alcohol did you have? 3
-What is your weight, in pounds? 175
-How many hours has it been since your last drink? 1
 
-Your BAC is 0.049323
-It is legal for you to drive.
-
-Enter a 1 is you are male or a 2 if you are female: 1
-How many ounces of alcohol did you have? 5
-What is your weight, in pounds? 175
-How many hours has it been since your last drink? 1
-
-Your BAC is 0.092206
-It is not legal for you to drive.
-BAC = (A × 5.14 / W × r) − .015 × H
- */
 package org.example;
 import java.util.Scanner;
 
